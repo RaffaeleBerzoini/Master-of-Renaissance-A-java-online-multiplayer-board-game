@@ -53,6 +53,13 @@
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE
 * [JavaFX](https://openjfx.io) - Graphical Framework
 
+## CLI View
+![Immagine1](https://user-images.githubusercontent.com/62103572/131249493-2e6940a1-c5e1-4ad9-b803-a3c2131cd2c2.png)
+
+## GUI View
+![Immagine3](https://user-images.githubusercontent.com/62103572/131249497-571b9ab9-b9ee-4295-8fef-343e32dc52f5.png)
+
+
 ## License
 
 This project is developed in collaboration with [Politecnico di Milano](https://www.polimi.it) and [Cranio Creations](http://www.craniocreations.it).
