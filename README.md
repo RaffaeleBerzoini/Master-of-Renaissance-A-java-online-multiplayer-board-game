@@ -46,7 +46,7 @@ Main functionalities:
 ## How to install
 - Download the repository as a zip file and extract its content into a folder
 - In the [Deliverables](Deliverables) folder there are two multi-platform jar files, one to set the Server up, and the other one to start the Client.
-- If you don't have java installed in your machine, [download](https://www.java.com/download/manual.jsp) it first and install it
+- If you don't have java installed in your machine, [download Java 11 or higher](https://www.oracle.com/java/technologies/downloads/archive/) first and install it.
 - The Server can be run with the following command on a shell prompt, as default it runs on port 1234:
     ```shell
     > java -jar MasterOfReinassanceServer.jar
