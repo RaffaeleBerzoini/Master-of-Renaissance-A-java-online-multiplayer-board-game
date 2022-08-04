@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/62103572/182883994-5d008b6a-d6a9-4bee-
 * **src**: folder containing all code files, including code's tests.
 * **Presentation.pdf**: pdf with the project presentation.
 
-## How to install and play
+## How to run
 - Download the repository as a zip file and extract its content into a folder
 - In the [Deliverables](Deliverables) folder there are two multi-platform jar files, one to set the Server up, and the other one to start the Client.
 - If you don't have java installed in your machine, [download Java 11 or higher](https://www.oracle.com/java/technologies/downloads/archive/) first and install it.
@@ -68,7 +68,9 @@ https://user-images.githubusercontent.com/62103572/182883994-5d008b6a-d6a9-4bee-
     ```
     - This command sets the Client on Graphical User Interface (GUI) mode, but it can be followed by **-cli** if the Command Line Interface (CLI) is preferred.
     - The Server's IP and port to connect to can be specified during the execution.
-    
+## How to play
+Click [here](https://github.com/EliaFantini/Master-of-Renaissance-A-java-online-multiplayer-board-game/files/9261036/Masters-of-Renaissance_rules.pdf) to download the pdf with the rules of the game.
+
 
 
 
