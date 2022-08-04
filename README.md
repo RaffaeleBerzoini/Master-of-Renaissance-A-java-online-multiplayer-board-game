@@ -37,13 +37,19 @@ Main functionalities:
 - [Elia Fantini](https://www.github.com/EliaFantini)
 - [Raffaele Berzoini](https://github.com/RaffaeleBerzoini)
 - [Elisabetta Fedele](https://github.com/elisabettafedele)
+## Gameplay
+The following video shows a quick match between two players, one using the GUI and one using the CLI, while the server is running on the same machine (which is not necessary, it might have also been on another pc connected to internet). If you hare using Windows like me, you should run the CLI on the PowerShell or another shell substitute, it won't work on the command prompt. 
+The GUI  is optimized for a Full HD screen. Since my monitor is 2K, I could go to *screen settings*->*resizing*  (on Windows) and set it to 125% to have a bigger window of the game and read the cards more easily, but in the video it was set to 100% to give a broader view of the two players.
+
+https://user-images.githubusercontent.com/62103572/182883994-5d008b6a-d6a9-4bee-8062-276d7a60f058.mp4
+
 
 ## Contents
 * **Deliverables**: folder containing the two jar files (in the *jar* folder) to execute the server and the client, and another *UML* folder containing all sequence and class diagrams.
 * **src**: folder containing all code files, including code's tests.
 * **Presentation.pdf**: pdf with the project presentation.
 
-## How to install
+## How to install and play
 - Download the repository as a zip file and extract its content into a folder
 - In the [Deliverables](Deliverables) folder there are two multi-platform jar files, one to set the Server up, and the other one to start the Client.
 - If you don't have java installed in your machine, [download Java 11 or higher](https://www.oracle.com/java/technologies/downloads/archive/) first and install it.
