@@ -93,7 +93,7 @@ Click [here](https://github.com/EliaFantini/Master-of-Renaissance-A-java-online-
 ## 🛠 Skills
 Java, CSS, JavaFX, UML, JSON. Complex class structure with UML, advanced Java implentation of internet communication Client-to-Server and Server-to-Client. Game design for a practival and visually pleasing experience of the board game. Handling of server problems and features such as discconections, multiple games and match persistency.
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EliaFantini/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eliafantini.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-elia-fantini/)
 
 ## License
