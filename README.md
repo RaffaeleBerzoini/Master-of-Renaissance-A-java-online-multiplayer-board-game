@@ -34,8 +34,8 @@ Main functionalities:
 
 
 ## Authors
-- [Elia Fantini](https://www.github.com/EliaFantini)
 - [Raffaele Berzoini](https://github.com/RaffaeleBerzoini)
+- [Elia Fantini](https://www.github.com/EliaFantini)
 - [Elisabetta Fedele](https://github.com/elisabettafedele)
 ## Gameplay
 The following video shows a quick match between two players, one using the GUI and one using the CLI, while the server is running on the same machine (which is not necessary, it might have also been on another pc connected to internet). If you hare using Windows like me, you should run the CLI on the PowerShell or another shell substitute, it won't work on the command prompt. 
@@ -93,8 +93,7 @@ Click [here](https://github.com/EliaFantini/Master-of-Renaissance-A-java-online-
 ## 🛠 Skills
 Java, CSS, JavaFX, UML, JSON. Complex class structure with UML, advanced Java implentation of internet communication Client-to-Server and Server-to-Client. Game design for a practival and visually pleasing experience of the board game. Handling of server problems and features such as discconections, multiple games and match persistency.
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eliafantini.github.io/Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-elia-fantini/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaele-berzoini/)
 
 ## License
 
